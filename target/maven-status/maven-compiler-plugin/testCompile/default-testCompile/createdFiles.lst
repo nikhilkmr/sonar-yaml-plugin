@@ -1,0 +1,5 @@
+org/sonar/plugins/yaml/batch/IssueSensorTest.class
+org/sonar/plugins/yaml/checks/NodeExistTest.class
+org/sonar/plugins/yaml/checks/AbstractCheckTester.class
+org/sonar/plugins/yaml/language/TextLanguageTest.class
+org/sonar/plugins/yaml/checks/SimpleYamlMatchCheckTest.class
